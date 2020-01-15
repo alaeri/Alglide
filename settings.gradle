@@ -1,0 +1,3 @@
+rootProject.name='Alglide'
+include ':app'
+include ':lib'

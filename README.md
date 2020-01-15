@@ -2,6 +2,8 @@
 
 *This project is not intended to be used in production*
 
+[![Build Status](https://app.bitrise.io/app/c06930e2b82dde09/status.svg?token=J82MDBOU8kzX3dNddxaIaQ&branch=master)](https://app.bitrise.io/app/c06930e2b82dde09)
+
 ## Introduction:
 
 [Assigment is described here](https://gist.github.com/spinach/3934578e3e607050aacb66a62aadc866)

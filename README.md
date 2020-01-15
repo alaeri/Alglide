@@ -4,6 +4,9 @@
 
 [![Build Status](https://app.bitrise.io/app/c06930e2b82dde09/status.svg?token=J82MDBOU8kzX3dNddxaIaQ&branch=master)](https://app.bitrise.io/app/c06930e2b82dde09)
 
+[![codecov](https://codecov.io/gh/alaeri/Alglide/branch/master/graph/badge.svg)](https://codecov.io/gh/alaeri/Alglide)
+
+
 ## Introduction:
 
 [Assigment is described here](https://gist.github.com/spinach/3934578e3e607050aacb66a62aadc866)

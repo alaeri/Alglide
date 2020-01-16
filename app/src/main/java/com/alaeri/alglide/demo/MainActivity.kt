@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         Log.d("MainActivity","${image.width}")
-        Alglide.with(this).load(image, "fakeUrl")
+        val height = (Math.random() * 2000).toInt()
+        Alglide.with(this).load(image, "https://placekitten.com/900/$height")
     }
 }
